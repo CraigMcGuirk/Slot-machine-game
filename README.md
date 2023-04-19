@@ -1,4 +1,4 @@
-##The Sopranos - Fact: 90% of gambling addicts quit right before they're about to hit it big
+## The Sopranos - Fact: 90% of gambling addicts quit right before they're about to hit it big
 
 * This webapp has been desinged to indulge your inner gambler without spending a single cent!
 
@@ -7,7 +7,7 @@
 ## How to play:
 
 It's easy —
-Simply drop coins into the slot and push the enter key. 
+* Simply drop coins into the slot and push the enter key. 
 
 
 
