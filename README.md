@@ -9,5 +9,6 @@
 It's easy —
 * Simply drop coins into the slot and push the enter key. 
 
+In this version there are 4 possible outcomes, A, B, C and D with A having the highest multiplier and D having the lowest.
 
 
