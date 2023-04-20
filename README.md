@@ -6,7 +6,7 @@
 
 * This webapp has been desinged to indulge your inner gambler without spending a single cent!
 
-* [You can visit the wewbapp here]  https://project-portfolio3.herokuapp.com/ 
+* You can visit the webapp here  https://project-portfolio3.herokuapp.com/ 
 
 ![slots game](https://user-images.githubusercontent.com/105204182/233223214-360da845-d4dd-4da6-a5c2-00f4875c52ed.png)
 
