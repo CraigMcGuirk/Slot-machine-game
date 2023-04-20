@@ -7,8 +7,12 @@
 ## How to play:
 
 It's easy —
-* Simply drop coins into the slot and push the enter key. 
+* Simply input an amount of your choice into your balance and push the enter key. 
 
 In this version there are 4 possible outcomes, A, B, C and D with A having the highest multiplier and D having the lowest.
+
+You will be asked:
+* How many lines you would like to bet on. 
+* How much you would like to bet on each line.
 
 
