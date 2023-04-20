@@ -74,6 +74,9 @@ This project was deployed using Code Institutes mock terminal for Heroku.
 ## Credits
 
 * Code institute for the deployment terminal
+* UDEMY course thought by Angela Yu 
+* Youtube channel Tech With Tim
+* Wikipedia for some info on slots
 
 
 
