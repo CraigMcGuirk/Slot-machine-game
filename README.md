@@ -44,6 +44,7 @@ Slot machines are also known pejoratively as one-armed bandits because of the la
 
 
 * Once all requirements are met you can go ahead and place your bet. 
+
 ![gamba 4](https://user-images.githubusercontent.com/105204182/233370127-cfeb8053-f406-4920-b8ba-6dc12b0999c7.png)
 
 
