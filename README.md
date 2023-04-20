@@ -32,12 +32,14 @@ Slot machines are also known pejoratively as one-armed bandits because of the la
 
 * Choose how many lines to bet on. 
 * Choose how much to bet on each line (1 - 100)
+ 
 ![gamba 3](https://user-images.githubusercontent.com/105204182/233367147-d9a6b648-ebf9-4747-ae52-433ee194e2af.png)
 
 ### Input validation
 
 * Choices must be between (1 - 3 lines.)
 * Betting amount must be between ($1 - $100)
+
 ![Gamba 2](https://user-images.githubusercontent.com/105204182/233367433-62346733-8a8f-47f6-93fa-1e7470c3e44e.png)
 
 
