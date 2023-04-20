@@ -47,6 +47,35 @@ Slot machines are also known pejoratively as one-armed bandits because of the la
 
 ![gamba 4](https://user-images.githubusercontent.com/105204182/233370127-cfeb8053-f406-4920-b8ba-6dc12b0999c7.png)
 
+## Future features
+
+* Implement increased row numbers
+* Run bonus events
+
+## Testing 
+
+#### I have manually tested this webapp by doing the following. 
+
+* Ran code through PEP8 linter with no 97% pass rate. https://www.pythonchecker.com/ Used for checking.
+* Tested in VSCode terminal and also Heroku deployed terminal
+
+
+## Deployment
+
+This project was deployed using Code Institutes mock terminal for Heroku.
+
+* Steps for deployment
+
+* Create Heroku account 
+* Link Github starter pack to Heroku for account credits
+* Link Github to Heroku and add repository. 
+* Click on Deploy and Enjoy
+
+## Credits
+
+* Code institute for the deployment terminal
+
+
 
 
 
