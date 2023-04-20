@@ -17,6 +17,10 @@ It's easy —
 
 In this version there are 4 possible outcomes, A, B, C and D with A having the highest multiplier and D having the lowest.
 
+A slot machine (American English), fruit machine (British English), poker machine or pokies (Australian English and New Zealand English) is a gambling machine that creates a game of chance for its customers. 
+
+Slot machines are also known pejoratively as one-armed bandits because of the large mechanical levers affixed to the sides of early mechanical machines and the games' ability to empty players' pockets and wallets as thieves would.
+
 
 
 
