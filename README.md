@@ -21,6 +21,14 @@ A slot machine (American English), fruit machine (British English), poker machin
 
 Slot machines are also known pejoratively as one-armed bandits because of the large mechanical levers affixed to the sides of early mechanical machines and the games' ability to empty players' pockets and wallets as thieves would.
 
+## Features
+
+### Existing Features
+
+* User has the option to input a balance they wish to spend 
+* Prompt to press enter to play or Q to quit
+
+![Slots game 1](https://user-images.githubusercontent.com/105204182/233362748-73387422-0197-413a-b693-d7eb5596b46c.png)
 
 
 
